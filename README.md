@@ -7,3 +7,5 @@ Execute a API rodando no terminal
 Sem as aspas e sem os parenteses.
 
 Ex: node app image.jpg 500
+
+A imagem tem que estar dentro da pasta raiz do da API
